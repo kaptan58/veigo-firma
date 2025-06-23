@@ -1,0 +1,1 @@
+console.log('Firma Paneli çalışıyor');
